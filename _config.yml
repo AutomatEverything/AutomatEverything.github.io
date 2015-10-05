@@ -11,4 +11,4 @@ twitter_username: AutomatEverything
 github_username:  AutomatEverything
 
 # Build settings
-markdown: AutomatEverything
+markdown: kramdown
